@@ -1,0 +1,252 @@
+{
+  "sections": [
+    {
+      "sectionTitle": "General Knowledge",
+      "questions": [
+        {
+          "questionType": "mcq",
+          "question": "Which animal is known as the King of the Jungle?",
+          "options": ["Tiger", "Lion", "Elephant", "Leopard"],
+          "answer": "Lion"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which planet is closest to the Sun?",
+          "options": ["Venus", "Earth", "Mercury", "Mars"],
+          "answer": "Mercury"
+        },
+                {
+          "questionType": "text",
+          "question": "Name the country where the Great Wall is located.",
+          "answer": "China"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which is the largest continent on Earth?",
+          "options": ["Asia", "Africa", "Europe", "Antarctica"],
+          "answer": "Asia"
+        },
+        {
+          "questionType": "text",
+          "question": "Who is the current Prime Minister of India?",
+          "answer": "Narendra Modi"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which is the fastest land animal?",
+          "options": ["Cheetah", "Tiger", "Lion", "Horse"],
+          "answer": "Cheetah"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which ocean is the largest?",
+          "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+          "answer": "Pacific"
+        },
+        {
+          "questionType": "number",
+          "question": "How many continents are there on Earth?",
+          "answer": 7
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which of these is a type of tree?",
+          "options": ["Rose", "Oak", "Tulip", "Daisy"],
+          "answer": "Oak"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which is the largest planet in the solar system?",
+          "options": ["Mars", "Earth", "Jupiter", "Saturn"],
+          "answer": "Jupiter"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Science",
+      "questions": [
+        {
+          "questionType": "mcq",
+          "question": "Water freezes at which temperature?",
+          "options": ["0°C", "100°C", "32°C", "50°C"],
+          "answer": "0°C"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which gas do humans breathe in for survival?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "answer": "Oxygen"
+        },
+        {
+          "questionType": "text",
+          "question": "Name the process by which plants make their own food.",
+          "answer": "Photosynthesis"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+          "answer": "Mars"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which organ pumps blood in our body?",
+          "options": ["Heart", "Lungs", "Kidney", "Brain"],
+          "answer": "Heart"
+        },
+        {
+          "questionType": "number",
+          "question": "How many legs does a spider have?",
+          "answer": 8
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which of these is a mammal?",
+          "options": ["Shark", "Dolphin", "Frog", "Eagle"],
+          "answer": "Dolphin"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which of these is used to measure temperature?",
+          "options": ["Thermometer", "Barometer", "Compass", "Clock"],
+          "answer": "Thermometer"
+        },
+        {
+          "questionType": "text",
+          "question": "What is the natural source of light during the day?",
+          "answer": "Sun"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which part of the plant absorbs water?",
+          "options": ["Root", "Stem", "Leaf", "Flower"],
+          "answer": "Root"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Mathematics",
+      "questions": [
+        {
+          "questionType": "mcq",
+          "question": "What is 12 + 15?",
+          "options": ["25", "27", "26", "28"],
+          "answer": "27"
+        },
+        {
+          "questionType": "mcq",
+          "question": "What is 9 × 8?",
+          "options": ["72", "71", "81", "69"],
+          "answer": "72"
+        },
+        {
+          "questionType": "mcq",
+          "question": "What is 100 ÷ 5?",
+          "options": ["20", "25", "15", "10"],
+          "answer": "20"
+        },
+        {
+          "questionType": "text",
+          "question": "What do you call the distance around a circle?",
+          "answer": "Circumference"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which shape has 4 equal sides?",
+          "options": ["Rectangle", "Square", "Triangle", "Circle"],
+          "answer": "Square"
+        },
+        {
+          "questionType": "mcq",
+          "question": "What is half of 50?",
+          "options": ["20", "25", "30", "40"],
+          "answer": "25"
+        },
+        {
+          "questionType": "text",
+          "question": "Write the name of the polygon with 5 sides.",
+          "answer": "Pentagon"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which number is odd?",
+          "options": ["14", "21", "18", "10"],
+          "answer": "21"
+        },
+        {
+          "questionType": "number",
+          "question": "What is 7 × 6?",
+          "answer": 42
+        },
+        {
+          "questionType": "mcq",
+          "question": "What is 15 – 7?",
+          "options": ["6", "7", "8", "9"],
+          "answer": "8"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Indian History",
+      "questions": [
+        {
+          "questionType": "mcq",
+          "question": "Who was the first Prime Minister of India?",
+          "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Indira Gandhi", "Rajendra Prasad"],
+          "answer": "Jawaharlal Nehru"
+        },
+        {
+          "questionType": "mcq",
+          "question": "In which year did India gain independence?",
+          "options": ["1945", "1946", "1947", "1948"],
+          "answer": "1947"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Who led the Salt March?",
+          "options": ["Subhash Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel"],
+          "answer": "Mahatma Gandhi"
+        },
+        {
+          "questionType": "text",
+          "question": "Which empire was ruled by Akbar?",
+          "answer": "Mughal Empire"
+        },
+        {
+          "questionType": "text",
+          "question": "Who wrote the Indian National Anthem?",
+          "answer": "Rabindranath Tagore"
+        },
+        {
+          "questionType": "number",
+          "question": "In which year was the Constitution of India adopted?",
+          "answer": 1950
+        },
+        {
+          "questionType": "mcq",
+          "question": "Who was known as the 'Iron Man of India'?",
+          "options": ["Jawaharlal Nehru", "Sardar Patel", "Bhagat Singh", "Subhash Chandra Bose"],
+          "answer": "Sardar Patel"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which battle marked the beginning of British rule in India?",
+          "options": ["Battle of Plassey", "Battle of Panipat", "Battle of Haldighati", "Battle of Buxar"],
+          "answer": "Battle of Plassey"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Who was the first President of India?",
+          "options": ["Rajendra Prasad", "Zakir Husain", "V. V. Giri", "Radhakrishnan"],
+          "answer": "Rajendra Prasad"
+        },
+        {
+          "questionType": "mcq",
+          "question": "Which movement protested British salt tax?",
+          "options": ["Quit India Movement", "Salt March", "Non-Cooperation Movement", "Civil Disobedience Movement"],
+          "answer": "Salt March"
+        }
+      ]
+    }
+  ]
+}
