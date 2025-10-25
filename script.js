@@ -1,7 +1,7 @@
 let quizData = null;
 let originalQuestionContainerHTML = "";
+
 document.addEventListener("DOMContentLoaded", function(){
-  originalQuestionContainerHTML = document.getElementById("question-container").innerHTML
   fetch('quiz-data.json')
   .then(response => response.json())
   .then(data => {
@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function(){
 });
 
 function initSections(){
+  originalQuestionContainerHTML = document.getElementById("question-container").innerHTML
   let allEle = document.querySelectorAll(".section");
   allEle.forEach(ele =>{
     ele.addEventListener("click", ()=>{
@@ -22,7 +23,6 @@ function initSections(){
 }
 
 function startQuiz(index){
-
   let score = 0;
   let answerSelected = false;
   let questionNo = 0;
